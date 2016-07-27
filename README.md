@@ -9,4 +9,4 @@ the role, user name, user password and so on.
 stored in the configuration package.
 4)spring give more config method, more consulting the official doc http://spring.io.
 
-NOT NED!
+NOT END!
